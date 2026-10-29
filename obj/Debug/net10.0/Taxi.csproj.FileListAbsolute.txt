@@ -1,0 +1,14 @@
+C:\Users\fijoy\Downloads\Taxi\bin\Debug\net10.0\Taxi.exe
+C:\Users\fijoy\Downloads\Taxi\bin\Debug\net10.0\Taxi.deps.json
+C:\Users\fijoy\Downloads\Taxi\bin\Debug\net10.0\Taxi.runtimeconfig.json
+C:\Users\fijoy\Downloads\Taxi\bin\Debug\net10.0\Taxi.dll
+C:\Users\fijoy\Downloads\Taxi\bin\Debug\net10.0\Taxi.pdb
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.AssemblyInfoInputs.cache
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.AssemblyInfo.cs
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.dll
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\refint\Taxi.dll
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.pdb
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\Taxi.genruntimeconfig.cache
+C:\Users\fijoy\Downloads\Taxi\obj\Debug\net10.0\ref\Taxi.dll
